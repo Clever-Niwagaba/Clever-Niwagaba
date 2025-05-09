@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is **Clever**. I am a Frontend Web Developer and a Junior Software Developer currently working at Ensibuuko Tech Limited.
+My name is **Clever**. 
+
+I am a Junior Software Developer currently working at Ensibuuko Tech Limited.
+
+I have a strong foundation in Frontend technologies.
 
 I have a passion for Software Development, Networking and Cybersecurity.
 
