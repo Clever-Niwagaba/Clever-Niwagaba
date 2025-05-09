@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is **Clever**. I am a Frontend Web Developer and a Junior Software Developer currently working at Ensibuuko Tech Limited.
+
+I have a passion for Software Development, Networking and Cybersecurity.
+
+Currently, my focus is on growing and gaining as much knowledge as I can about all I can.
 <!--
 **Clever-Niwagaba/Clever-Niwagaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=Clever-Niwagaba)
