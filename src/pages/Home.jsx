@@ -6,7 +6,9 @@ export const Home = () => {
         <div className="min-h-screen bg-backround text-foreground overflow-x-hidden">
             {/* Theme Toggle*/ }
             <ThemeToggle />
+
             {/* Background Effects*/ }
+            <StarBackground />
 
             {/* Navbar*/ }
 
